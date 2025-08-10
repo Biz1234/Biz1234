@@ -3,6 +3,10 @@ hi i am buzualem abebe software engineering student at wollo university
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/buzualem-abebe-24b7aa330/) 
+
+
+
+portfolio 
 bizualem-port.vercel.app
 
 # 💻Tech Stack
